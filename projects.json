@@ -116,6 +116,19 @@
     "icon": "ri-robot-line",
     "coverStyle": "background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%); color: white;"
   },
+  {
+    "title": "Procrastination Cost Calculator",
+    "category": "fun",
+    "description": "Helps users visualize the hidden cost of procrastination by converting daily wasted hours into monthly and yearly time and productivity loss. ",
+    "tech": [
+      "HTML",
+      "CSS",
+      "JS"
+    ],
+    "link": "./projects/procrastinationcost/index.html",
+    "icon": "ri-robot-line",
+    "coverStyle": "background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%); color: white;"
+  },
 
   {
     "title": "Mood Tracker",
